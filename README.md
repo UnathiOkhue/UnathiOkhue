@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnathiOkhue
 - 👀 I’m interested in programming and quite alot of other things😂  
-- 🌱 I’m currently learning Java, Python and HTML
-- 💞️ I’m looking to collaborate on a project called Oluza (contact me for further details)
+- 🌱 I’m currently learning Java, Python and C++
+- 💞️ I’m looking to collaborate on a couple of long-term projects (contact me for further details)
 - 📫 How to reach me:
    * WhatsApp: +27 72 456 7266
    *Email: uokhue77@gmail.com
